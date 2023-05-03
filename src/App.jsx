@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Social Media</h1>
+      <h1>Social Media App</h1>
     </>
   );
 }
